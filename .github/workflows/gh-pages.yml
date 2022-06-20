@@ -27,6 +27,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.MISCORD_GH_PAGES }}
+          deploy_key: ${{ secrets.MISCORD_GH_PAGES }}
           external_repository: miscord-dev/miscord-dev.github.io
           publish_branch: main
