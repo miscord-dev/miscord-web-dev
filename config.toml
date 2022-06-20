@@ -70,7 +70,7 @@ summaryLength                 = 10
 [menu]
 
 [[menu.main]]
-identifier = "私たちについて"
+identifier = "Miscordとは"
 pre = "👤"
 url = "/about" 
 weight = 1 
