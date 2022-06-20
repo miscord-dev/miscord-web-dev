@@ -17,3 +17,7 @@ Discord を中心に活動しており、現在およそ300名弱のメンバー
 
 ### 開発
 本ウェブサイトは Miscord コミュニティ内のディベロッパーグループ [GitHub](https://github.com/miscord-dev/) により運営されています。
+
+また、次のフレームワーク・プロジェクトを使用しています。
+- <a href="https://gohugo.io/">Hugo</a> 
+- <a href="https://github.com/wisnuwiry/personal-site/blob/master/LICENSE">Hugo Personal Site</a>
