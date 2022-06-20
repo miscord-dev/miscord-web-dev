@@ -1,5 +1,5 @@
 ---
-title: 私たちについて 👤
+title: Miscordとは 👤
 toc: false
 authorBox: false
 breadcrumb: false
@@ -8,7 +8,7 @@ share: false
 page: true
 ---
 
-### 私たちについて
+### Miscordとは
 Miscord は 早稲田大学最大のデジタル創作サークル [MIS.W](https://misw.jp/) のOB/OG/現役による非公式コミュニティです。  
 Discord を中心に活動しており、現在およそ300名弱のメンバーが Discord に参加しています。  
 

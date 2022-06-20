@@ -6,14 +6,14 @@ summaryLength                 = 10
 
 [Author] # Used in authorbox
   name                        = "Miscord"
-  bio                         = "MIS.W OB/OG/現役 からなる非公式コミュニティ Miscord のディベロッパーグループにより管理されています。"
+  bio                         = "このウェブサイトは Miscord のディベロッパーグループにより管理されています。"
   avatar                      = "img/miscord-45866080.png"
   email                       = "misw.alumni@gmail.com"
 
 
 [Params]
   subTitle                    = "Offical Website"
-  description                 = "MIS.W OB/OG/現役 からなる非公式コミュニティ Miscord の公式ウェブサイトです。" # Site Description. Used in meta description
+  description                 = "MIS.W OB/OG/現役 による非公式コミュニティ Miscord の公式ウェブサイトです。" # Site Description. Used in meta description
   images                      = ["mg/miscord-45866080.pnig"]
   copyright                   = "Miscord" # Copyright holder, otherwise will use .Site.Title
   opengraph                   = true # Enable OpenGraph if true
