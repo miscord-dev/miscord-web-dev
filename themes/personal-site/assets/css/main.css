@@ -1079,18 +1079,3 @@ textarea {
     letter-spacing: 1.13778rem;
     padding-left: 1rem;
 }
-
- /* Custom */
-.suzuri-widget-product{
-    padding: 20px;
-}
-.suzuri-widget-product .suzuri-widget-product-wrap .suzuri-widget-product-info .text-parent p{
-    color: var(--text-color);
-}
-.suzuri-widget-product a{
-    color: var(--link-color);
-    cursor: pointer;
-    text-decoration: none;
-    padding: 0;
-}
-

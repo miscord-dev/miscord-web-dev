@@ -12,15 +12,15 @@ summaryLength                 = 10
 
 
 [Params]
-  subTitle                    = "Personal site, Blog, and Portfolio"
-  description                 = "Sebuah catatan dan blog pribadi saya. Saya juga akan membagi tentang pengalaman saya dan teknologi-teknolgi yang saya gunakan/pelajari atau yang sedang populer." # Site Description. Used in meta description
+  subTitle                    = "Offical Website"
+  description                 = "MIS.W OB/OG/現役 からなる非公式コミュニティ Miscord の公式ウェブサイトです。" # Site Description. Used in meta description
   images                      = ["mg/miscord-45866080.pnig"]
   copyright                   = "Miscord" # Copyright holder, otherwise will use .Site.Title
   opengraph                   = true # Enable OpenGraph if true
   twitter_cards               = true # Enable Twitter Cards if true
   mainSections                = ["info"] # Set main page sections
   dateFormat                  = "January 02, 2006" # Change the format of dates
-  # customCSS                 = ["css/custom.css"] # Include custom CSS files
+  customCSS                 = ["css/custom.css"] # Include custom CSS files
   customJS                    = []
   mainMenuAlignment           = "right" # Align main menu (desktop version) to the right side
   authorbox                   = true # Show authorbox at bottom of single pages if true
