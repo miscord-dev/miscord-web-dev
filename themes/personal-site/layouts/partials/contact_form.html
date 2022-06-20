@@ -1,0 +1,12 @@
+{{- if and .IsPage (.Param "contact") }}
+<br>
+<br>
+<form action="https://formspree.io/f/{{ .Site.Params.formspreeId }}" method="POST">
+	<input type="text" name="Name" placeholder="お名前" required>
+	<input type="text" name="_subject" placeholder="タイトル">
+	<input type="email" name="_replyto" placeholder="メールアドレス" required>
+	<textarea required="" name="message" placeholder="本文（返信が欲しい場合はその旨を記載してください）" required></textarea>
+	<input type="text" name="_gotcha" style="display:none" />
+	<button type="submit">送信</button>
+</form>
+{{- end }}
