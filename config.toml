@@ -42,7 +42,7 @@ summaryLength                 = 10
   # Google Search custom, more info: https://cse.google.com/cse/all
   customSearchId              = "5005ed4c4c8be42cc"
 
-  endMessagePost              = "記事の修正リクエストは GitHub でできます（miscord-devメンバーのみ）。"
+  endMessagePost              = "記事の修正リクエストは GitHub 行えます "
   
   # Link repo to edit content
   editContentPageLink         = "https://github.com/miscord-dev/miscord-web-dev/edit/main/content/"
