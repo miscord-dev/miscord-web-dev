@@ -20,7 +20,7 @@ hugo server -D
 
 
 ## リポジトリの更新の仕方
-mainブランチが更新されると、自動的にデプロイされるようになっています。
+mainブランチが更新されると、自動的に [miscord-dev/miscord-dev.github.io](https://github.com/miscord-dev/miscord-dev.github.io) へとデプロイされるようになっています。
 
 - contentの追加・修正  
 mainブランチでそのまま作業しても大丈夫です。
