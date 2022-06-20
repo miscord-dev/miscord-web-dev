@@ -6,7 +6,7 @@ images: [ "https://d1q9av5b648rmv.cloudfront.net/v3/1024x1024/t-shirt/s/white/fr
 ---
 
 
-Clank(@clank3140_mo_de) と もひょ(@MohyoWorks) による創作グループ Fruor Studio のオリジナルTシャツ。
+Clank([@clank3140_mo_de](https://twitter.com/clank3140_mo_de)) と もひょ([@MohyoWorks](https://twitter.com/MohyoWorks)) による創作グループ Fruor Studio のオリジナルTシャツ。
 
 JavaとJavaScriptの違いがわからない謎の生き物のTシャツが人気。
 
