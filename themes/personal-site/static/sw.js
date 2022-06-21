@@ -46,7 +46,7 @@ const MAX_TTL = {
 
 const CACHE_BLACKLIST = [
     (str) => {
-       return !str.startsWith('http://localhost') && !str.startsWith('https://wisnuwiry.space');
+       return !str.startsWith('http://localhost') && !str.startsWith('https://miscord.win');
     },
 ];
 
