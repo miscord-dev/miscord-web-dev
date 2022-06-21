@@ -9,8 +9,8 @@ images: [ "https://www.clank.work/sixsenses/images/jacket_01.png" ]
 ### 概要
 MIS.W OB/OG によるVOCALOIDコンピレーションアルバム。
 
-### リンク
-https://www.clank.work/sixsenses
+### 企画長
+Clank([@clank3140_mo_de](https://twitter.com/clank3140_mo_de))
 
 ### ティザー
 ![jacket](https://www.clank.work/sixsenses/images/jacket_01.png)
@@ -23,11 +23,10 @@ https://www.clank.work/sixsenses
 初めて触れた君の髪の柔らかさ  
 
 そんな情景とともに聴こえたら、  
-熱くなる、悲しくなる、ドキドキする、励まされる――  
+熱くなる、悲しくなる、ドキドキする、励まされる―― 
 感覚を揺さぶられる歌が全部ここにある。  
 
 だけど、いつ、どこで聴いても良いんだ。  
 この歌たちはもっと、別の深いところも揺さぶってくれるから。  
-
 
 
