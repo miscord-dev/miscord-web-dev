@@ -42,7 +42,7 @@ summaryLength                 = 10
   # Google Search custom, more info: https://cse.google.com/cse/all
   customSearchId              = "5005ed4c4c8be42cc"
 
-  endMessagePost              = "記事の修正リクエストは GitHub 行えます "
+  endMessagePost              = "記事の修正リクエストは GitHub で行えます "
   
   # Link repo to edit content
   editContentPageLink         = "https://github.com/miscord-dev/miscord-web-dev/edit/main/content/"
@@ -89,7 +89,7 @@ weight = 1
 
 [[menu.main]]
 identifier = "老人企画"
-pre = "💠"
+pre = "🖌️"
 url = "/rojin" 
 weight = 4 
 

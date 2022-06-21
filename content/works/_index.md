@@ -1,5 +1,5 @@
 ---
-title: メンバーの作品 📌
+title: 📌 メンバーの作品
 description: "Miscord メンバーの創作活動"
 toc: false
 authorBox: false

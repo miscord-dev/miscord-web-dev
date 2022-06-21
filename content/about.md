@@ -1,5 +1,5 @@
 ---
-title: Miscordとは 👤
+title: 👤 Miscordとは 
 toc: false
 authorBox: false
 breadcrumb: false
