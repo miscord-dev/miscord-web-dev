@@ -89,7 +89,7 @@ weight = 1
 
 [[menu.main]]
 identifier = "老人企画"
-pre = "💠"
+pre = "🖌️"
 url = "/rojin" 
 weight = 4 
 

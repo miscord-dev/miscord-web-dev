@@ -1,5 +1,5 @@
 ---
-title: コンタクト 🤙
+title: 🤙 コンタクト
 menu: main
 toc: false
 authorBox: false
