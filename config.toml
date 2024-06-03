@@ -48,7 +48,7 @@ summaryLength                 = 10
   editContentPageLink         = "https://github.com/miscord-dev/miscord-web-dev/edit/main/content/"
   
   # Formspree form contact id, more info: https://cse.google.com/cse/all
-  formspreeId                 = "mwkyjpqz"
+  formspreeId                 = ""
   
 
 [Params.Hero]
@@ -100,7 +100,7 @@ url = "/works"
 weight = 5 
 
 [[menu.main]]
-identifier = "参加・コンタクト"
+identifier = "コンタクト"
 pre = "🤙"
 url = "/contact" 
 weight = 6 
