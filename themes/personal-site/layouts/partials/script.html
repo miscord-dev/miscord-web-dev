@@ -7,7 +7,7 @@
 {{- range .Site.Params.customJS }}
 <script src="{{ . | relURL }}" defer></script>
 {{- end }}
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.0/lazysizes.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js"></script>
 <script>(function (d, e) { d[e] = d[e].replace("no-js", "js"); })(document.documentElement, "className");</script>
 <script>
     {{ with .Site.Params.GoogleAnalytics }}
